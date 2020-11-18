@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/WeatherDisplay.css"],"names":[],"mappings":"AAAA,gBACE,iBAAkB,CAClB,eACF","file":"main.026af2ec.chunk.css","sourcesContent":[".weatherDisplay {\r\n  text-align: center;\r\n  margin-top: 50px;\r\n}\r\n"]}
