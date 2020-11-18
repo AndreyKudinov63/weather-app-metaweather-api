@@ -1,6 +1,6 @@
 {
   "short_name": "Weather App",
-  "name": "Weather App OpenWeatherMap Api",
+  "name": "Weather App MetaWeather Api",
   "icons": [
     {
       "src": "favicon.ico",
